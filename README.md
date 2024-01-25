@@ -1,5 +1,5 @@
 # Mobile-Price-Classification
-Performating classification task on mobile price range.
+Performing classification task on mobile price range.
 
 # Data Exploration
 ![alt text](https://github.com/reyrobs/Mobile-Price-Classification/blob/main/images/box_plots.png?raw=True)
